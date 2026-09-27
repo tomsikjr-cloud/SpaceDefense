@@ -1,0 +1,30 @@
+{
+  "1": {
+    "name": "Solar Station Defense",
+    "enemies": 20,
+    "spawn_rate": [40, 80],
+    "asteroids": 8,
+    "starting_money": 350
+  },
+  "2": {
+    "name": "Nebula Outpost",
+    "enemies": 25,
+    "spawn_rate": [35, 70],
+    "asteroids": 10,
+    "starting_money": 200
+  },
+  "3": {
+    "name": "Black Hole Sector",
+    "enemies": 30,
+    "spawn_rate": [30, 60],
+    "asteroids": 12,
+    "starting_money": 200
+  },
+  "4": {
+    "name": "Event Horizon Part I",
+    "enemies": 50,
+    "spawn_rate": [50, 60],
+    "asteroids": 25,
+    "starting_money": 200
+  }
+}
